@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_offset">10dp</dimen>
+
+    <!-- feature item -->
+    <dimen name="cardview_margin">5dp</dimen>
+    <dimen name="cardview_radius">0dp</dimen>
+    <dimen name="feature_cover_height">40dp</dimen>
+    <dimen name="feature_title_padding">10dp</dimen>
+    <dimen name="feature_title_text_size">15dp</dimen>
+    <dimen name="feature_desc_text_size">12dp</dimen>
+    <dimen name="cardview_ic_overflow_width">20dp</dimen>
+    <dimen name="cardview_ic_overflow_height">30dp</dimen>
+    <dimen name="cardview_ic_overflow_margin_top">10dp</dimen>
+</resources>

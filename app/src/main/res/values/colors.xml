@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#2196F3</color>
+
+    <color name="main_layout_bg">#f1f5f8</color>
+    <color name="feature_text_color">#4c4c4c</color>
+    <color name="product_text_color">#4c4c4c</color>
+
+    <color name="transaction_success_color">#58D68D</color>
+    <color name="transaction_failed_color">#E74C3C</color>
+</resources>

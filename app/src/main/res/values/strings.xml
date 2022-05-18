@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">2C2P Merchant Demo App</string>
+
+    <!-- Feature category list -->
+    <string name="feature_category_pay">Pay</string>
+    <string name="feature_category_close">Close</string>
+
+    <!-- Transaction result -->
+    <string name="transaction_result_header_success">Your payment success!</string>
+    <string name="transaction_result_header_failed">Your payment failed!</string>
+    <string name="transaction_result_message_success">Your order has been placed! \n We\'ll reach out to you shortly with your order.</string>
+    <string name="transaction_result_message_failed">Please re-order product again or call to our support team.</string>
+    <string name="transaction_result_order_detail_title">ORDER DETAILS</string>
+    <string name="transaction_result_invoice_no_title">Invoice No. :</string>
+    <string name="transaction_result_date_time_title">DateTime :</string>
+    <string name="transaction_result_amount_title">Amount :</string>
+    <string name="transaction_result_payment_type_title">Payment Type :</string>
+    <string name="transaction_result_masked_pan_title">Credit Card No. :</string>
+    <string name="transaction_result_status_title">Status :</string>
+    <string name="transaction_result_expand_title">Full Payment Response :</string>
+    <string name="transaction_result_title">Payment result</string>
+
+    <!-- Common Message -->
+    <string name="common_message_progress_loading_message">Please wait, loading&#8230;</string>
+    <string name="common_message_payment_processing_message">Please wait, payment processing&#8230;</string>
+    <string name="common_message_payment_result_message">Please wait, getting payment result&#8230;</string>
+    <string name="common_message_payment_token_message">Please wait, getting payment token&#8230;</string>
+
+</resources>
